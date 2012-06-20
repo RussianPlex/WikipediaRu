@@ -6,8 +6,6 @@ AGENT_VERSION = '0.1'
 USER_AGENT = 'Plex WikipediaRu Metadata Agent (+http://www.plexapp.com/) v.%s' % AGENT_VERSION
 
 ##############  Preference item names.
-PREF_IS_DEBUG_NAME = 'wikiru_pref_is_debug'
-PREF_LOG_LEVEL_NAME = 'wikiru_pref_log_level'
 PREF_CACHE_TIME_NAME = 'wikiru_pref_cache_time'
 PREF_MAX_RESULTS_NAME = 'wikiru_pref_wiki_results'
 PREF_IGNORE_CATEGORIES_NAME = 'wikiru_pref_ignore_categories'
