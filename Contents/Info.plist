@@ -22,8 +22,15 @@
     &lt;a href=&quot;http://ru.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt;,
     содержание которой защищается лицензией
     &lt;a href=&quot;http://www.gnu.org/copyleft/fdl.html&quot;&gt;GFDL&lt;/a&gt;.
-    Сайт разработчика плагина &lt;b&gt;RussianPlex&lt;/b&gt; на:
-    &lt;a href=&quot;http://russianplex.sourceforge.net/&quot;&gt;SourceForge&lt;/a&gt;.
+    Разработчик плагина
+    &lt;a href=&quot;https://plus.google.com/+YevgenyNyden&quot;&gt;Евгений Найден (Yevgeny Nyden)&lt;/a&gt;.
+    Сайт проекта &lt;b&gt;RussianPlex&lt;/b&gt;
+    &lt;a на href=&quot;http://russianplex.sourceforge.net/&quot;&gt;SourceForge&lt;/a&gt;.
+    Версия плагина @PLUGIN.REVISION@ (svn:@REPOSITORY.REVISION@).
+    &lt;br&gt; &lt;br&gt;
+    Если вы пользуетесь этим плагином и удовлетворены его качеством, ПОЖАЛУЙСТА,
+    поддержите работу над плагином скромным (ну или не очень скромным) пожертвованием:
+    &lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=ALWBEGG7WPYH8&amp;lc=US&amp;item_name=RussianPlex&amp;currency_code=USD&amp;bn=PP-DonationsBF%3Abtn_donateCC_LG.gif%3ANonHosted&quot;&gt;страничка на PayPal&lt;/a&gt;.
   </string>
 	<key>PlexFrameworkVersion</key>
 	<string>2</string>
