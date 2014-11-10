@@ -1,6 +1,17 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
 
-import datetime, string, re, time, unicodedata, hashlib, urlparse, types
+"""
+Russian metadata plugin for Plex, which uses http://ru.wikipedia.org/ to get the tag data.
+Плагин для обновления информации о фильмах использующий русскую википедию (http://ru.wikipedia.org/) и
+IMDB (http://www.imdb.com/).
+
+@version @PLUGIN.REVISION@
+@revision @REPOSITORY.REVISION@
+@copyright (c) 2014 by Yevgeny Nyden
+@license GPLv3, see LICENSE for more details
+"""
+
+import string, re, unicodedata, hashlib, types
 
 AGENT_VERSION = '0.1'
 USER_AGENT = 'Plex WikipediaRu Metadata Agent (+http://www.plexapp.com/) v.%s' % AGENT_VERSION

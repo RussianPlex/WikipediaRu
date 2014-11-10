@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Russian</string>
+	<key>CFBundleExecutable</key>
+	<string>Russian Movie Agent</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.plexapp.agents.wikipediaru</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>PlexAgentAttributionText</key>
+	<string>
+    Агент для получения информации о медиа файлах с Русской ВИКИпедии
+    &lt;a href=&quot;http://ru.wikipedia.org/&quot;&gt;Wikipedia&lt;/a&gt;,
+    содержание которой защищается лицензией
+    &lt;a href=&quot;http://www.gnu.org/copyleft/fdl.html&quot;&gt;GFDL&lt;/a&gt;.
+    Разработчик плагина
+    &lt;a href=&quot;https://plus.google.com/+YevgenyNyden&quot;&gt;Евгений Найден (Yevgeny Nyden)&lt;/a&gt;.
+    Сайт проекта &lt;b&gt;RussianPlex&lt;/b&gt;
+    &lt;a на href=&quot;http://russianplex.sourceforge.net/&quot;&gt;SourceForge&lt;/a&gt;.
+    Версия плагина 1.0 (svn:KinoPoiskRu-1.6).
+    &lt;br&gt; &lt;br&gt;
+    Если вы пользуетесь этим плагином и удовлетворены его качеством, ПОЖАЛУЙСТА,
+    поддержите работу над плагином скромным (ну или не очень скромным) пожертвованием:
+    &lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=ALWBEGG7WPYH8&amp;lc=US&amp;item_name=RussianPlex&amp;currency_code=USD&amp;bn=PP-DonationsBF%3Abtn_donateCC_LG.gif%3ANonHosted&quot;&gt;страничка на PayPal&lt;/a&gt;.
+  </string>
+	<key>PlexFrameworkVersion</key>
+	<string>2</string>
+	<key>PlexPluginClass</key>
+	<string>Agent</string>
+	<key>PlexPluginMode</key>
+	<string>AlwaysOn</string>
+
+  <!-- Logging configuration. REMOVE for Release. -->
+  <key>PlexPluginConsoleLogging</key>
+  <string>0</string> <!-- 0 - Off; 1 - On; -->
+  <key>PlexPluginLogLevel</key>
+  <string>Critical</string>  <!-- Critical, Error, Warning, Info, Debug. -->
+</dict>
+</plist>
